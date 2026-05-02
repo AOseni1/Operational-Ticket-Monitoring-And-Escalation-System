@@ -20,7 +20,7 @@ Notification Layer (Teams/Email) → Real-time alerts
 
 ## Key Features
 
-![Support Ticket Tracker List](Images/Sharepoint_List.png)
+![Support Ticket Tracker List](https://raw.githubusercontent.com/AOseni1/Operational-Ticket-Monitoring-And-Escalation-System/main/Images/Sharepoint_List.png)
 Tracks tickets with fields such as:
 
 - Title
@@ -28,18 +28,18 @@ Tracks tickets with fields such as:
 - Status (New, In Progress, Closed)
 - Category
 
-![Adding a new item to the list](Images/Adding_Policy_Ticket.png)
+![Adding a new item to the list](https://raw.githubusercontent.com/AOseni1/Operational-Ticket-Monitoring-And-Escalation-System/main/Images/Adding_Policy_Ticket.png)
 Automatically detects High priority tickets
-![Automatically detects High priority tickets](Images/Conditon.png)
+![Automatically detects High priority tickets](https://raw.github.com/AOseni1/Operational-Ticket-Monitoring-And-Escalation-System/main/Images/Conditon.png)
 
 Sends dynamic notifications including
 
 - Ticket title
 - Status
 - Additional context
-  ![Sends dynamic notifications including](Images/FlowBot_Actions.png):
+  ![Sends dynamic notifications including](https://raw.github.com/AOseni1/Operational-Ticket-Monitoring-And-Escalation-System/main/Images/FlowBot_Actions.png):
 
-![Flowbot Chat](Images/FlowBot_chat.png)
+![Flowbot Chat](https://raw.github.com/AOseni1/Operational-Ticket-Monitoring-And-Escalation-System/main/Images/FlowBot_chat.png)
 Simulates real-world operational workflows and escalation patterns
 
 ## Workflow Logic
@@ -51,7 +51,7 @@ Trigger notification
 Include dynamic ticket details
 Otherwise:
 No escalation triggered
-![Workflow Logic](Images/Power_Automate_Flow.png)
+![Workflow Logic](https://raw.github.com/AOseni1/Operational-Ticket-Monitoring-And-Escalation-System/main/Images/Power_Automate_Flow.png)
 
 ## Challenges & Learnings
 
