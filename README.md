@@ -20,7 +20,7 @@ Notification Layer (Teams/Email) → Real-time alerts
 
 ## Key Features
 
-![Support Ticket Tracker List](Images/sharepoint_list.png)
+![Support Ticket Tracker List](Images/Sharepoint_List.png)
 Tracks tickets with fields such as:
 
 - Title
